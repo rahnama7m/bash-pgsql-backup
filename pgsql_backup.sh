@@ -26,7 +26,7 @@
 #      5. At each run of file, check for cont of files in each directory and delete extra ones base on `KEEP_*` variables.
 
 #################################
-# Strat Block: Set this varaibles
+# Start Block: Set this varaibles
 ################################# 
 PG_SERVER_IP=
 PG_SERVER_USER=
@@ -39,7 +39,7 @@ KEEP_MONTHLY=120
 BACKUP_SUFFIX=
 PC_USER=
 #################################
-# Strat Block: Set this varaibles
+# End Block: Set this varaibles
 ################################# 
 
 
